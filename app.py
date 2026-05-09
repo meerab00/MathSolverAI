@@ -2,7 +2,6 @@
 
 ## 1. app.py
 
-```python
 import streamlit as st
 from groq import Groq
 import sympy as sp
