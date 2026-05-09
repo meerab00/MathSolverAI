@@ -1,0 +1,9 @@
+
+streamlit
+langchain
+groq
+sympy
+pillow
+pytesseract
+PyPDF2
+python-dotenv
